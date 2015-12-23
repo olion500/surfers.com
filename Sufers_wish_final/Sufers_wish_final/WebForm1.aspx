@@ -18,6 +18,7 @@
             <asp:Button ID="Button2" runat="server" OnClick="Button1_Click" style="height: 21px" Text="Button" Width="166px" />
             <asp:Label ID="Label1" runat="server" Text="github 어려워"></asp:Label>
         </p>
+        <asp:Label ID="Label2" runat="server" Text="github 진짜 어려워"></asp:Label>
     </form>
 </body>
 </html>
