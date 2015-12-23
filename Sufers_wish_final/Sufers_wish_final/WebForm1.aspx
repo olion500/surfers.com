@@ -22,6 +22,7 @@
         <p>
             <asp:Button ID="Button2" runat="server" Text="Button1" />
         </p>
+        <asp:Button ID="Button3" runat="server" Text="Button2" />
     </form>
 </body>
 </html>
