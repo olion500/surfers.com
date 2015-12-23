@@ -19,7 +19,7 @@
             <asp:Label ID="Label1" runat="server" Text="github 어려워"></asp:Label>
             <asp:Label ID="Label2" runat="server" Text="github 많이 어려워"></asp:Label>
         </p>
-        <asp:Label ID="Label2" runat="server" Text="github 진짜 어려워"></asp:Label>
+            <asp:Label ID="Label3" runat="server" Text="github 진짜 어려워"></asp:Label>
     </form>
 </body>
 </html>
