@@ -19,10 +19,6 @@
             <asp:Label ID="Label2" runat="server" Text="github 많이 어려워"></asp:Label>
         </p>
             <asp:Label ID="Label3" runat="server" Text="github 너무너무 어려워"></asp:Label>
-        <p>
-            <asp:Button ID="Button2" runat="server" Text="Button1" />
-        </p>
-        <asp:Button ID="Button3" runat="server" Text="Button2" />
     </form>
 </body>
 </html>
